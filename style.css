@@ -1,0 +1,36 @@
+/* styles.css - ejemplo simple */
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+header, section, footer {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+header {
+  background: #b40e0e;
+  text-align: center;
+  color: #e0e0e0
+}
+
+h1 {
+  margin: 0;
+  padding-bottom: 8px;
+}
+
+section {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#contacto a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  color: #000000;
+}
